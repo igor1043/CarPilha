@@ -1,9 +1,6 @@
 /*
 
-Aula Prática Sobre Pilhas
-Estrutura de Dados
-Discente: Lucas Batista
-23-02-2018
+
 
 Classe em c++ denominadaCarro com os seguintes dados membros:
 Frabricante, proprietario, placa e valor. A classe contem os seguintes metodos: contrutor/destrutor,
@@ -15,7 +12,11 @@ Utilizando pilha para armazenar os dados.
 
 
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<iostream>
 #include<string>
 #include<stack>
